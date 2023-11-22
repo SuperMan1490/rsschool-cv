@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SuperMan1490.github.io/rsschool-cv/cv
