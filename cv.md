@@ -14,3 +14,8 @@ function multiply(a, b){
   return (a * b);
 }
 ```
+6. My [project](https://github.com/SuperMan1490/rsschool-cv/tree/master)
+7. Education:
+    * _Higher technical education in the specialty "Automation of technological processes and production"_
+    * [_"Python Generation": a course for beginners_](https://stepik.org/course/58852/info)
+8. English: **A2**
